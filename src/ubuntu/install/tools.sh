@@ -22,3 +22,4 @@ echo "generate reooooooooooooooopoooohttps://github.com/ProjectPheonix/manifest.
 
 #~/bin/repo init -u https://github.com/ProjectPheonix/manifest.git -b 10.0
 #~/bin/repo sync  --force-sync --no-tags --no-clone-bundle
+#########
